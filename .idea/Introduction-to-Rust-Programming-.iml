@@ -26,6 +26,13 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/d_control_flow/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/e_ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/f_ref_borrow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/g_slice_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/h_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/h_struct_debug/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/h_struct_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -48,6 +55,13 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/d_control_flow/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/e_ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/f_ref_borrow/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/g_slice_type/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/h_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/h_struct_debug/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/h_struct_method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_match/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
