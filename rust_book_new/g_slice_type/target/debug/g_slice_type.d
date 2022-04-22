@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\g_slice_type\target\debug\g_slice_type.exe: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\g_slice_type\src\main.rs
