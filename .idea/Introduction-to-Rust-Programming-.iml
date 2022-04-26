@@ -48,6 +48,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_type_para/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src/aggregator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_projects/a_io_project/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -92,6 +93,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_type_para/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src/aggregator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_projects/a_io_project/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
