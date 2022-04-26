@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_generic_data_types\target\debug\m_generic_data_types.exe: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_generic_data_types\src\main.rs

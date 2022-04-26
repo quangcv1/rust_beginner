@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_trait\target\debug\m_trait.exe: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_trait\src\lib.rs C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_trait\src\main.rs

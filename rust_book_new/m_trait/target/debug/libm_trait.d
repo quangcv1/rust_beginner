@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_trait\target\debug\libm_trait.rlib: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\m_trait\src\lib.rs

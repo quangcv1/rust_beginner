@@ -33,6 +33,21 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_match/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/i_matching_pattern_if_let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/j_module/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/k_collection_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/k_collection_vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/l_error_propagating/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/l_error_recover/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/l_error_unrecover/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_type_para/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src/aggregator/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -62,6 +77,21 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_enum_option_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/i_matching_pattern_if_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/j_module/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/k_collection_vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/k_collection_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/l_error_unrecover/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/l_error_recover/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/l_error_propagating/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_struct/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_data_method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_generic_type_para/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/m_trait/src/aggregator/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

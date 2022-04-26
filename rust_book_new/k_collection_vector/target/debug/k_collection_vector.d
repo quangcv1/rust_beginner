@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\k_collection_vector\target\debug\k_collection_vector.exe: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\k_collection_vector\src\main.rs
