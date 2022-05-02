@@ -52,6 +52,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/o_iter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/o_iter_capture_env/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/o_iter_owniter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/p_documenting/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -100,6 +101,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/o_iter/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/o_iter_capture_env/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/o_iter_owniter/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/p_documenting/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
