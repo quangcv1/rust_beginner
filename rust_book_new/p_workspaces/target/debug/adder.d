@@ -1,0 +1,1 @@
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\target\debug\adder.exe: D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\add_one\src\lib.rs D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\adder\src\main.rs
