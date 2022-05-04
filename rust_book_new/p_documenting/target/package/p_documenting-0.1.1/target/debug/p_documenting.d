@@ -1,0 +1,1 @@
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_documenting\target\package\p_documenting-0.1.1\target\debug\p_documenting.exe: D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_documenting\target\package\p_documenting-0.1.1\src\lib.rs D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_documenting\target\package\p_documenting-0.1.1\src\main.rs

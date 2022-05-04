@@ -1,0 +1,11 @@
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\target\debug\deps\getrandom-985196fd1039bf9d.rmeta: C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\lib.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\util.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error_impls.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\windows.rs
+
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\target\debug\deps\libgetrandom-985196fd1039bf9d.rlib: C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\lib.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\util.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error_impls.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\windows.rs
+
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book_new\p_workspaces\target\debug\deps\getrandom-985196fd1039bf9d.d: C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\lib.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\util.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error_impls.rs C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\windows.rs
+
+C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\lib.rs:
+C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error.rs:
+C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\util.rs:
+C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\error_impls.rs:
+C:\Users\Quang\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.6\src\windows.rs:
