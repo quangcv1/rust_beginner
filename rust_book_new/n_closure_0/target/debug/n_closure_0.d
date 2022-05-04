@@ -1,0 +1,1 @@
+C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\n_closure_0\target\debug\n_closure_0.exe: C:\Users\ACBS\Desktop\clone\Introduction-to-Rust-Programming-\rust_book_new\n_closure_0\src\main.rs
