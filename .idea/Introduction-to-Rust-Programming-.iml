@@ -56,6 +56,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/p_workspaces/add_one/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/p_workspaces/adder/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/p_workspaces/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/q_15_2_smartPointer_Ref/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book_new/q_boxT_dataOnHeap/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
@@ -108,6 +109,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/p_documenting/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/p_workspaces/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book_new/q_boxT_dataOnHeap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/q_15_2_smartPointer_Ref/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

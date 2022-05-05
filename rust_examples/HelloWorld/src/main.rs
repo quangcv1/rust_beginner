@@ -1,60 +1,56 @@
-// fn main() {
-//     // In general, the `{}` will be automatically replaced with any
-//     // arguments. These will be stringified.
-//     println!("{} days", 31);
-//
-//     // Without a suffix, 31 becomes an i32. You can change what type 31 is
-//     // by providing a suffix. The number 31i64 for example has the type i64.
-//
-//     // There are various optional patterns this works with. Positional
-//     // arguments can be used.
-//     println!("{0}, this is {1}. {1}, this is {0}", "Alice", "Bob");
-//
-//     // As can named arguments.
-//     println!("{subject} {verb} {object}",
-//              object="the lazy dog",
-//              subject="the quick brown fox",
-//              verb="jumps over");
-//
-//     // Special formatting can be specified after a `:`.
-//     println!("{} of {:b} people know binary, the other half doesn't", 1, 2);
-//
-//     // You can right-align text with a specified width. This will output
-//     // "     1". 5 white spaces and a "1".
-//     println!("{number:>width$}", number=1, width=6);
-//
-//     // You can pad numbers with extra zeroes. This will output "000001".
-//     println!("{number:0>width$}", number=1, width=6);
-//
-//     // Rust even checks to make sure the correct number of arguments are
-//     // used.
-//     println!("My name is {0}, {1} {0}", "Bond", "Quang");
-//     // FIXME ^ Add the missing argument: "James"
-//
-//     // Create a structure named `Structure` which contains an `i32`.
-//     #[allow(dead_code)]
-//     struct Structure(i32);
-//
-//     // However, custom types such as this structure require more complicated
-//     // handling. This will not work.
-//     println!("This struct `{}` won't print...", Structure(3));
-//     // FIXME ^ Comment out this line.
-// }
-
 fn main() {
-    use std::collections::HashMap;
+    println!("Hello, world!");
+    let x = Some(5);
+    let y = 10;
 
-    let text = "hello world wonderful world";
+    match x {
+        Some(50) => println!("Got 50"),
+        Some(n) if n == y => println!("Matched, n = {}", n),
+        _ => println!("Default case, x = {:?}", x),
+    }
+    println!("at the end: x = {:?}, y = {}", x, y);
+}
 
-    let mut map = HashMap::new();
-    map.insert(String::from("Quang"), 123);
-    let count = map.entry(String::from("Thuy")).or_insert(2);
+#[test]
+fn match_guards() {
+    let x = Some(5);
+    let y = 10;
 
-    // for word in text.split_whitespace() {
-    //     let count = map.entry(word).or_insert(0);
-    //     *count += 1;
-    // }
-    println!("{:?}", count);
-    println!("{:?}", map);
+    match x {
+        Some(50) => println!("Got 50"),
+        Some(n) if n == y => println!("Matched, n = {}", n),
+        _ => println!("Default case, x = {:?}", x),
+    }
+    println!("at the end: x = {:?}, y = {}", x, y);
+}
 
+#[test]
+fn match_guards_or () {
+    let x = 4;
+    let y = true;
+    match x {
+        4|5|6 if y => println!("yes"),
+        _ => println!("no"),
+    }
+}
+
+#[test]
+fn match_guards_binding() {
+    enum Message {
+        Hello {id: i32},
+    }
+
+    let msg = Message::Hello {id: 14};
+
+    match msg {
+        Message::Hello {
+            id: id_variable @ 3..=7,
+        } => println!("Found an id in range: {}", id_variable),
+        Message::Hello {
+            id: 10..=12
+        } => {
+            println!("Found an id in another range");
+        },
+        Message::Hello {id} => println!("Found some other id: {}", id),
+    }
 }
