@@ -1,0 +1,1 @@
+D:\STUDY\RUST_STUDY\rust_beginner\rust_book\_3d_function\target\debug\_3d_function.exe: D:\STUDY\RUST_STUDY\rust_beginner\rust_book\_3d_function\src\function.rs D:\STUDY\RUST_STUDY\rust_beginner\rust_book\_3d_function\src\main.rs
