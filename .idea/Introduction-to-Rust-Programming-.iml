@@ -70,6 +70,9 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_6b_enum_option_null/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_6c_match/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_6d_if_let/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_7a_pack_crate_mod/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_7a_packs_crate_mod/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_7b_restaurant/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -143,6 +146,9 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_6b_enum_option_null/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_6c_match/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_6d_if_let/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_7a_pack_crate_mod/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_7a_packs_crate_mod/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_7b_restaurant/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
