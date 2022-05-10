@@ -61,15 +61,15 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_3a_var_mut/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_3b_data_types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_3c_compound_types/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3d_function/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3e_control_flow/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_4a_ownership/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3c_extra_String_type/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3c_extra_Slice_type/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_4b_ref_borrowing/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5a_struct/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5b_struct_example/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5c_struct_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/n_closure/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/n_closure_0/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/n_closure_1/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_new/o_iterators/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book_projects/a_io_project/search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_6a_enum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_6b_enum_option_null/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_6c_match/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_6d_if_let/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -134,6 +134,15 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_5a_struct/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_5b_struct_example/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_5c_struct_method/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_projects/a_io_project/search/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/n_closure/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/n_closure_0/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/n_closure_1/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book_new/o_iterators/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_6a_enum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_6b_enum_option_null/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_6c_match/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_6d_if_let/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
