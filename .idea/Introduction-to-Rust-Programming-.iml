@@ -73,6 +73,10 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_7a_pack_crate_mod/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_7a_packs_crate_mod/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_7b_restaurant/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_7c_restaurant_useKeyWord/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_7d_restaurent_separate_mod/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_8a_collection_vector/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_8b_collection_string/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -149,6 +153,10 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_7a_pack_crate_mod/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_7a_packs_crate_mod/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_7b_restaurant/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_7c_restaurant_useKeyWord/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_7d_restaurent_separate_mod/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_8a_collection_vector/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_8b_collection_string/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
