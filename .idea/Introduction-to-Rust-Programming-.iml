@@ -80,6 +80,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_10a_generic_data_types/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_10b_traits/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_10b_traits_bound_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_10c_lifetimes/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_8c_hashmap/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_9a_panic_unrecover/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_9b_result_recoverable/src" isTestSource="false" />
@@ -169,6 +170,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_10a_generic_data_types/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_10b_traits/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_10b_traits_bound_syntax/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_10c_lifetimes/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
