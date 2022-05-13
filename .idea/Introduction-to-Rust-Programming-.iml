@@ -77,6 +77,12 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_7d_restaurent_separate_mod/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_8a_collection_vector/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_8b_collection_string/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_10a_generic_data_types/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_10b_traits/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_10b_traits_bound_syntax/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_8c_hashmap/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_9a_panic_unrecover/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_9b_result_recoverable/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -157,6 +163,12 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_7d_restaurent_separate_mod/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_8a_collection_vector/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_8b_collection_string/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_8c_hashmap/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_9a_panic_unrecover/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_9b_result_recoverable/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_10a_generic_data_types/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_10b_traits/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_10b_traits_bound_syntax/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
