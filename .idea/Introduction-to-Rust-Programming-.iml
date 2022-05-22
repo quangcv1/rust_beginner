@@ -86,6 +86,16 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_9b_result_recoverable/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_10d_type_trait_lifetime/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_11a_test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3c_extra_Slice_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3c_extra_String_type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3d_function/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_3e_control_flow/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_4a_ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_4b_ref_borrowing/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5a_struct/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5b_struct_example/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_5c_struct_method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_12a_io_project/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -175,6 +185,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_10c_lifetimes/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_10d_type_trait_lifetime/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_11a_test/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_12a_io_project/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
