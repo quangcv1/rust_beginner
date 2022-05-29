@@ -1,5 +1,4 @@
 use std::{env, process};
-use _12a_io_project::Config;
 use crate::io_mod::io_mod::parse_config;
 
 mod _1_reading_arguments_values;
@@ -12,6 +11,7 @@ mod _6_constructor_struct_config;
 mod _7_error_handling_panic;
 mod _8_error_handling_result;
 mod _9_extract_run;
+mod solutions;
 
 
 fn main() {
@@ -20,20 +20,38 @@ fn main() {
     // let (query, filename) = parse_config(&args);
     // println!("{},{}", query, filename);
 
-    let args: Vec<String> = env::args().collect();
 
-    let config = Config::new(&args)
+    let args: Vec<String> = env::args().collect();
+    ///# BASIC APPROACH
+    let config_basic = solutions::basic::Config::new(&args)
         .unwrap_or_else(|err| {
             //std_error vs std output https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
-            eprintln!("Problem parsing arguments: {}", err);
+            eprintln!("Basic: Problem parsing arguments: {}", err);
             process::exit(1);
         });
 
-    println!("Searching for {}", config.query);
-    println!("In file {}", config.filename);
+    println!("Basic: Searching for {}", config_basic.query);
+    println!("Basic: In file {}", config_basic.filename);
 
-    if let Err(e) = _12a_io_project::run(config) {
-        eprintln!("Application error: {}", e);
+    if let Err(e) = solutions::basic::run(config_basic) {
+        eprintln!("Basic: Application error: {}", e);
         process::exit(2);
     }
+
+    ///# ADV APPROACH
+    let config_adv = solutions::adv_1::Config::new(env::args())
+        .unwrap_or_else(|err| {
+            //std_error vs std output https://doc.rust-lang.org/book/ch12-06-writing-to-stderr-instead-of-stdout.html
+            eprintln!("Adv1: Problem parsing arguments: {}", err);
+            process::exit(1);
+        });
+
+    println!("Adv1: Searching for {}", config_adv.query);
+    println!("Adv1: In file {}", config_adv.filename);
+
+    if let Err(e) = solutions::adv_1::run(config_adv) {
+        eprintln!("Adv1: Application error: {}", e);
+        process::exit(2);
+    }
+
 }
