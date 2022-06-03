@@ -100,6 +100,7 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_13a_closure_iter/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_13b_closure_iter_items/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_15a_smartPointer_box/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_15b_defer/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -194,6 +195,7 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_13a_closure_iter/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_13b_closure_iter_items/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_15a_smartPointer_box/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_15b_defer/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
