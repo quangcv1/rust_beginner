@@ -14,3 +14,4 @@
 /// - Because RefCell<T> allows mutable borrows checked at runtime, you can
 /// mutate the value inside the RefCell<T> even when the RefCell<T> is immutable
 
+fn main() {}

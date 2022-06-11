@@ -1,3 +1,5 @@
+mod lib;
+
 fn main() {
     println!("Hello, world!");
     let x = Some(5);

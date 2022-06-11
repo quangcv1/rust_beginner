@@ -104,6 +104,13 @@
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_15c_drop_trait/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_15d_rc_smart_pointer/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/rust_book/_15e_refcell_interior_mut_pattern/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_16a_thread/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_16b_transfer_data_bw_threads/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_17a_oop_features_of_rust/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_17c_oop_impl/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_18a_patterns_matching/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_18b_pattern_refutability/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rust_book/_18c_pattern_syntax/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v1_hello/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v5_loops/target" />
       <excludeFolder url="file://$MODULE_DIR$/Codes/Section 2/Source Code/v234_structs/target" />
@@ -202,6 +209,13 @@
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_15c_drop_trait/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_15d_rc_smart_pointer/target" />
       <excludeFolder url="file://$MODULE_DIR$/rust_book/_15e_refcell_interior_mut_pattern/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_16a_thread/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_16b_transfer_data_bw_threads/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_17a_oop_features_of_rust/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_17c_oop_impl/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_18a_patterns_matching/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_18b_pattern_refutability/target" />
+      <excludeFolder url="file://$MODULE_DIR$/rust_book/_18c_pattern_syntax/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
