@@ -17,7 +17,7 @@ fn binding() {
         Message::Hello {id: 10..=12} => {
             println!("Found an id in another range 10 - 12");
         },
-        Message::Hello {id: id_var} => {
+        Message::Hello {id: id_var} => {gyiuhiasdxrthe[];\=]0[iopk]
             println!("Found some other id: {}", id_var);
         }
     }
